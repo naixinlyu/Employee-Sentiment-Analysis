@@ -24,12 +24,19 @@ This project analyzes a dataset of internal employee messages to assess sentimen
 
 Below are the key charts generated during the analysis:
 
-*Figure 1: A summary of the Exploratory Data Analysis (EDA), showing the overall sentiment distribution, message volume over time, and distributions by employee and message length.*
+![eda_visualizations.png](visualization/eda_visualizations.png)
+*Figure 1(eda_visualizations.png): A summary of the Exploratory Data Analysis (EDA), showing the overall sentiment distribution, message volume over time, and distributions by employee and message length.*
 
+
+![monthly_scores.png](visualization/monthly_scores.png)
 *Figure 2: A time-series plot tracking the monthly sentiment scores for the top five most active employees.*
 
+
+![flight_risk_analysis.png](visualization/flight_risk_analysis.png)
 *Figure 3: An analysis of negative sentiment, showing the total negative messages per employee and the final overall flight risk status.*
 
+
+![predictive_model_performance.png](visualization/predictive_model_performance.png)
 *Figure 4: An evaluation of the linear regression model's performance, highlighting its predictive accuracy and key feature importance.*
 
 ## Methodology
